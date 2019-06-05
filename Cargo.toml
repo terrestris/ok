@@ -1,0 +1,7 @@
+[package]
+name = "ok"
+version = "0.0.1"
+authors = ["Andreas Schmitz <schmitz@terrestris.de>"]
+edition = "2018"
+
+[dependencies]

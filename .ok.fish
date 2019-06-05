@@ -1,0 +1,2 @@
+cargo run
+cargo deb
